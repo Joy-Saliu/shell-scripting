@@ -1,5 +1,5 @@
 # shell-scripting
-A bash script that generates multiplication table for a given number. The scripts prompts a user to enter a number and displays a multiplication table for that number up to 10.
+A bash script that generates multiplication table for a given number. The scripts prompts a user to enter a number and displays a multiplication table for that number up to 10. It exits and continues based on user's choices. 
 
 - created directory; linux shell script ![alttxt](Image1.png)
 
