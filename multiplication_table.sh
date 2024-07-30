@@ -1,6 +1,7 @@
  #!/bin?bash
 
 
+while true; do
  echo "Enter a number: "
  read num
 
@@ -29,3 +30,4 @@
  if [ "$answer" = "n" ]; then 
    break
   fi
+done
